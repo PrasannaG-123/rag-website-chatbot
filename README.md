@@ -1,4 +1,4 @@
-# AI Website + PDF RAG Chatbot
+# RAG POWERED AI WEBSITE CHATBOT
 
 A production-style AI chatbot that can:
 
